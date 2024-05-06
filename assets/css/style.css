@@ -123,12 +123,13 @@ h6{
 
 @media screen and (max-width: 768px) {
     .container {
-        flex-direction: column;
+        flex-direction: row;
     }
 
     .contactos {
         width: 100%;
         height: auto;
+    
     }
 
     .usuario {
